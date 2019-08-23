@@ -1,0 +1,24 @@
+{
+  "dbConfig": {
+    "host": "mongodb://localhost/admin-panel",
+    "dbName": "admin-panel"
+  },
+  "salt": "$2a$10$vI8aWBnW3fID.ZQ4/zo1G.q1lRps.9cGLcZEiGDMVr5yUP1KUOYTa",
+  "authentication": {
+    "token": {
+      "secret": "mySuperSecretKey",
+      "issuer": "social-logins-spa",
+      "audience": "social-logins-spa"
+    }
+  },
+  "cloudinary": {
+    "cloudName": "dix3v9vzg",
+    "apiKey": "477624425976848",
+    "apiSecret": "RcvBsCwsqc77ty796eE-pbai3pw"
+  },
+  "googleAnalitics": {
+    "viewId": "192987790",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDdjdgh+AUP7LSB\ne/jqdzImt/zut77NkuInLlWEGrnpo9EQBtwuHwmZJNeTr4huXEnoKStUYbhfCySJ\n00Ghgfuk2wBVOPgCmcEyrUBKyOEe+i4hjQ+QffRcVvCqjDQhf8qaFNFGKgP0h2xx\nf9O66ORgFR84Ghv3s6IX3HyPi+Us8KK90bbrjD9eo1T2dBBuGGqg4PPCeQBZjIjh\nmnQl0weQIjHZIT7BoM5SgZDvC63hRCywWv06OD8IxmZchYoV96MztRpVZPIDerrf\nMP3fsWcazQ+fS3pCqd0aFv43o25HBcRBTO2L6OrvPsrWFrCvjweiZOqikdkYzq6u\nkCna1kJ5AgMBAAECggEABtuHl5GSMop8kc9xBmzXEAy81vS4AqvrtRPBkNu06m7o\nHytfMExEo0lZJNiXi/buULHJhgyaRNLW+C8iRmn8DH+81GZ1grsYmEV1insKQMe0\nmtQ/aZUEdcE5JMY/LNRERJ2lVpshUTXJ3P98Ybooq3Kr6zQfrnyQZVWtQ1Isr0Xa\nu7i65zuLyv0ti6HXpH1QU2MpdyFd7w3R5KKuSYjDcHTQfAeDxcIkeFdcDV0sTpNf\nKZHAL3bbLMEGyR/llfM3VTFjCvcC+GH5O7qCYRNMxDD1L4gQ4KQ0bwtWaPW812OT\nmaViH8aR7EcheIomfVqISZUYPMQnAil3No+2p17BAwKBgQD1ighexrplCiBwpbO2\nNhWTLw+cPv1qcf0aM6e19FWwzxNonD4VyJdTRYi3Q3WtHPiFBArKfwdRh/TMr212\nlfHPKvZkBbc7Ww95PfiuDMXvBBZNa3tXlkUACiiTUrZcO0V30dcwcGBmO8OzJisk\ny/SDZj1fUVZggQj4TCU87p+0swKBgQDm/jfxvGTwCEoIn1N4Bgpv3uusaRCO+TJN\nXi3w9luVUolFsT7OtESTycqMN6Qt2jtodBn2YTRBKTWcLl1VlgHBDWL/Nh2pm/7F\nfCYwMyA9yOHfOuljIuMOP9qL6+lfZDqW3cMhGi8ELxaq8WdIj1x4e9aLpn7T/HwG\nxX7Ga7A6IwKBgQDfsG2pslAzJoOhPEQ5lpIXMYN+K6CArfIQQcjjKgI6/pvG7Lhe\n7gx2b11637lACamavLD8A7fuHfb11kfaBgZyXshzHQXtzCqPoNaB8d8MveN3ipim\nlZ6sx5RpiqvZ4KGL5B6v4WDhIkdKWVZqwmgyoRz+TkJrzoIWeoBeP2I9owKBgQC2\npyK5pczy+LsB4mpwJ+as20rkBBgx1d7uyp/tQADfLGqbjzIo5OatLg1Zns3V7BC5\n4cR9zBMzy1A29XqcKIeujdVQFQyTh2SH6EmSJ3tBH81rZPwThgygweEgbyUUZv7l\nOOoJDNlMp6d2+HhBKgtmwhW+S6NSIP45pIVAhPrOnQKBgDW0htOASQAIJhTcVSkr\nodNDshxjGvzTr27APCmpoRIOP9rgO/HBrbRBm7B90mwWVLMkcn9s53rquv71rpV1\nLI0lXzc4iEfpI3bBr0X3jOMnn3I8P242sFaipV8RaJL07AWqrFZJIRxIVc+gyQxW\neDeMg6F2P7nwW/e9CRfh4wpR\n-----END PRIVATE KEY-----\n",
+    "clientEmail": "admin-819@stable-synapse-236622.iam.gserviceaccount.com"
+  }
+}

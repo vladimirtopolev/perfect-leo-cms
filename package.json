@@ -32,7 +32,7 @@
   "scripts": {
     "test": "jest",
     "run_mongodb_locally": "docker kill $(docker ps -q) && docker run --rm -d --name mongo-server -p 27017:27017 mongo",
-    "perfectLeo_server_dev": "cd ./clients/perfect-leo/server && tsc &&NODE_ENV=development nodemon --watch 'src/**/*.ts' --ignore 'src/**/*.spec.ts' --exec 'ts-node' src/index.ts"
+    "demo_server_dev": "cd ./clients/perfect-leo/server && tsc &&NODE_ENV=development nodemon --watch 'src/**/*.ts' --ignore 'src/**/*.spec.ts' --exec 'ts-node' src/index.ts"
   },
   "keywords": [],
   "author": "",
